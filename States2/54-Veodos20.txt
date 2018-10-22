@@ -1,0 +1,10 @@
+
+state={
+	id=54
+	name="STATE_54"
+	provinces={
+		501 514 610 657 737 1101 1124 1771 1950 2491 2504 3519 3561 3583 3595 3629 3632 3651 3665 3686 3697 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
